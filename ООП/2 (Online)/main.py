@@ -29,8 +29,7 @@ class Goose:
     
     
     @staticmethod   
-    def create(name: str, hp: int) -> Goose:    # Фабричный метод. Зачем передавать
-                                                # экземпляр?
+    def create(name: str, hp: int) -> Goose:    # Фабричный метод. Зачем передавать экземпляр?
                                                 # Статичного метода достаточно
         # sleep(5)    # М.б. длительные операции
         return Goose(name, hp)
