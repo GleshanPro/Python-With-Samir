@@ -1,0 +1,6 @@
+CI/CD YAML syntax reference (docs.gitlab.com)
+
+git (resolve conflicts, pull-request, merge-request, pull)
+CI/CD git
+linux (?)
+hypervisor (1, 2, 3), 1 - аппаратный, 2 - программный, 3 - смешанный
